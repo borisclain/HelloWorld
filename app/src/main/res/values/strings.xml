@@ -2,5 +2,9 @@
     <string name="app_name">HelloWorld</string>
 
     <string name="hello_world_boris">Hello world! De la part de Boris</string>
+    <string name="hello_world_imene">  </string>
+    <string name="hello_world_lena">  </string>
+    <string name="hello_world_nassym"> </string>
+
     <string name="action_settings">Settings</string>
 </resources>
